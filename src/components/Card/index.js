@@ -2,6 +2,7 @@ import React, { useRef, useContext } from 'react';
 import { useDrag, useDrop } from 'react-dnd';
 import { Container, Label } from './style';
 import BoardContext from '../Board/context';
+import profileUser from '../../images/picture.jpg'
 
 export default function Card({ data, index, listIndex }) {
 
@@ -75,7 +76,7 @@ export default function Card({ data, index, listIndex }) {
                     {data.labels.map(label => <Label key={label} color={label} />)}
                 </header>
                 <p>{data.content}</p>
-                {data.user && <img src={data.user} alt="" /> }
+                {data.user && <img src={profileUser} alt="Bruno Carvalho Feitosa" /> }
             </div>
         </Container>    
     );

@@ -8,31 +8,31 @@ export function loadLists() {
             id: 1,
             content: 'Estudar módulo 01 de NodeJS',
             labels: ['#7159c1'],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           },
           {
             id: 2,
             content: 'Criar vídeo para o Youtube ensinando a recriar a interface do Pipefy',
             labels: ['#7159c1'],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           },
           {
             id: 3,
             content: 'Estudar módulo 03 de React Native',
             labels: ['#7159c1'],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           },
           {
             id: 4,
             content: 'Gravar Aula "NextJS: Utilizando server-side rendering com ReactJS"',
             labels: ['#54e1f7'],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           },
           {
             id: 5,
             content: 'Gravar testes e deploy ReactJS',
             labels: ['#54e1f7'],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           },
         ]
       },
@@ -44,7 +44,7 @@ export function loadLists() {
             id: 6,
             content: 'Recriando clone do Pipefy',
             labels: [],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           }
         ]
       },
@@ -56,18 +56,19 @@ export function loadLists() {
             id: 7,
             content: 'Gravar sobre Geolocalização e mapas com React Native',
             labels: ['#7159c1'],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           },
           {
             id: 8,
             content: 'Gravar testes e deploy ReactJS',
             labels: ['#54e1f7'],
-            user: 'https://api.adorable.io/avatars/285/abott@adorable.png'
+            user: '../images/picture.jpg'
           },
           {
             id: 9,
             content: 'Ajustes na biblioteca unform',
             labels: [],
+            user: '../images/picture.jpg'
           }
         ]
       },
@@ -80,16 +81,19 @@ export function loadLists() {
             id: 10,
             content: 'Gravar aula sobre deploy e CI com React Native',
             labels: [],
+            user: '../images/picture.jpg'
           },
           {
             id: 12,
             content: 'Gravar testes e deploy ReactJS',
             labels: ['#54e1f7'],
+            user: '../images/picture.jpg'
           },
           {
             id: 13,
             content: 'Gravar Aula "Internacionalização de aplicações Node.js, ReactJS e React Native"',
             labels: ['#7159c1'],
+            user: '../images/picture.jpg'
           }
         ]
       },
